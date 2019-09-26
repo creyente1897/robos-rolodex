@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robos-rolodex/static/css/main.c27f1209.chunk.css",
+    "main.js": "/robos-rolodex/static/js/main.b716129c.chunk.js",
+    "main.js.map": "/robos-rolodex/static/js/main.b716129c.chunk.js.map",
+    "runtime-main.js": "/robos-rolodex/static/js/runtime-main.7bc6885a.js",
+    "runtime-main.js.map": "/robos-rolodex/static/js/runtime-main.7bc6885a.js.map",
+    "static/js/2.c96dec80.chunk.js": "/robos-rolodex/static/js/2.c96dec80.chunk.js",
+    "static/js/2.c96dec80.chunk.js.map": "/robos-rolodex/static/js/2.c96dec80.chunk.js.map",
+    "index.html": "/robos-rolodex/index.html",
+    "precache-manifest.7c34e54899a0619d8a2b8441e359fb72.js": "/robos-rolodex/precache-manifest.7c34e54899a0619d8a2b8441e359fb72.js",
+    "service-worker.js": "/robos-rolodex/service-worker.js",
+    "static/css/main.c27f1209.chunk.css.map": "/robos-rolodex/static/css/main.c27f1209.chunk.css.map"
+  }
+}
